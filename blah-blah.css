@@ -1,0 +1,59 @@
+body
+{
+    background:linear-gradient(aqua,red);
+}
+.apps
+{
+    background-color:brown;
+}
+.games
+{
+    background-color:burlywood;
+}
+.chatbots
+{
+    background-color:red;
+}
+#line
+{
+    height:6;
+    background-color: black;
+    width: 70px;
+}
+h1
+{
+    font-family:Syne Tactile;
+    color:chocolate;
+    font-size:40px;
+}
+.list
+{
+    color:black;
+    padding-left:30px;
+    padding-right:30px;
+    font-size:20px;
+    display:inline;
+
+}
+.menu
+{
+    background-color:blue;
+    list-style:none;
+  position: fixed;
+  top:0px;
+  z-index:10;
+  width:100%;
+  margin-top:0px;
+}
+
+a
+{
+    text-decoration:none;
+    color:yellow;
+}
+
+.list:hover
+{
+    text-decoration:underline;
+    font-size:30;
+}
